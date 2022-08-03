@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	height: 1024px;
+	width: 1440px;
+}
+.html {
+	background: url(/images/bg-gradient.png);
+}
+
+.body {
+	background: url(/images/);
+}
+.background {
+	position: relative;
+}
+.horse{
+	position: absolute;
+	height: 1024px;
+	width: 1024px;
+	right: 0;
+}
+.color-blocks{
+	display: flex;
+}
+
+.color-blocks_yellow {
+	height: 16px;
+	width: 16px;
+	background-color: #ffff67;
+}
+
+.color-blocks_aqua{
+	height: 16px;
+	width: 16px;
+	background-color: #3fffff;
+}
+
+.color-blocks_green{
+	height: 16px;
+	width: 16px;
+	background-color: #52DC4B;
+}
+
+.color-blocks_red{
+	height: 16px;
+	width: 16px;
+	background-color: #FF6E3D;
+}
+
+.color-blocks_blue{
+	height: 16px;
+	width: 16px;
+	background-color: #3D45FF;
+}
+
+.color-blocks_down {
+	right: 0;
+	bottom: 0;
+	position: absolute;
+}
+
+.color-blocks_up {
+	left: 0;
+	top: 0;
+	position: absolute;
+}
