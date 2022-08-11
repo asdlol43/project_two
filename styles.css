@@ -13,6 +13,16 @@
     font-style: normal;
 }
 
+@font-face {
+	font-family: 'AvenirNextCyr-Thin';
+	src: url('../fonts/avenirnextcyr-thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/avenirnextcyr-thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/avenirnextcyr-thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/avenirnextcyr-thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/avenirnextcyr-thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/avenirnextcyr-thin.svg#avenirnextcyr-thin') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
 body {
 	font-family: 'Avenir', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -21,7 +31,7 @@ body {
 	position: static;
 }
 .horse{
-	position: fixed;
+	position: absolute;
 	height: 1024px;
 	width: 1024px;
 	right: 0;
@@ -52,10 +62,13 @@ body {
 	color: white;
 }
 .h2-text {
+	line-height: 1.5;
+	font-family: 'AvenirNextCyr-Thin';
+	font-size: 21px;
 	margin-top: 40px;
 	display: flex;
-	/* position: absolute; */
 	color: white;
+
 }
 .color-blocks{
 	/* position: fixed; */
@@ -140,6 +153,7 @@ body {
 
 }
 .back>p{
+	font-family: 'AvenirNextCyr-Thin';
 	font-size: 18px;
 }
 
