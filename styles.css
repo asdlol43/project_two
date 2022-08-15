@@ -6,9 +6,9 @@
 @font-face {
     font-family: 'Avenir';
     src: local('Avenir'),
-         url('/fonts/Avenir-Heavy.ttf') format('truetype'),
-         url('/fonts/Avenir-Heavy.eot') format('embedded-opentype'),
-         url('/fonts/Avenir-Heavy.woff') format('woff'); 
+         url('../fonts/Avenir-Heavy.ttf') format('truetype'),
+         url('../fonts/Avenir-Heavy.eot') format('embedded-opentype'),
+         url('../fonts/Avenir-Heavy.woff') format('woff'); 
     font-weight: 900;
     font-style: normal;
 }
