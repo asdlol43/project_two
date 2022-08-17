@@ -6,21 +6,21 @@
 @font-face {
     font-family: 'Avenir';
     src: local('Avenir'),
-         url('../fonts/Avenir-Heavy.ttf') format('truetype'),
-         url('../fonts/Avenir-Heavy.eot') format('embedded-opentype'),
-         url('../fonts/Avenir-Heavy.woff') format('woff'); 
+         url('https://asdlol43.github.io/project_two/fonts/Avenir-Heavy.ttf') format('truetype'),
+         url('https://asdlol43.github.io/project_two/fonts/Avenir-Heavy.eot') format('embedded-opentype'),
+         url('https://asdlol43.github.io/project_two/fonts/Avenir-Heavy.woff') format('woff'); 
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
 	font-family: 'AvenirNextCyr-Thin';
-	src: url('../fonts/avenirnextcyr-thin.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/avenirnextcyr-thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/avenirnextcyr-thin.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/avenirnextcyr-thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/avenirnextcyr-thin.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/avenirnextcyr-thin.svg#avenirnextcyr-thin') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-thin.svg#avenirnextcyr-thin') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 body {
