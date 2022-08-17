@@ -1,31 +1,31 @@
 @font-face {
 	font-family: 'AvenirNextCyr-Bold';
-	src: url('../fonts/avenirnextcyr-bold.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/avenirnextcyr-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/avenirnextcyr-bold.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/avenirnextcyr-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/avenirnextcyr-bold.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/avenirnextcyr-bold.svg#avenirnextcyr-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bold.svg#avenirnextcyr-bold') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
 	font-family: 'AvenirNextCyr-BoldItalic';
-	src: url('../fonts/avenirnextcyr-bolditalic.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/avenirnextcyr-bolditalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/avenirnextcyr-bolditalic.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/avenirnextcyr-bolditalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/avenirnextcyr-bolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/avenirnextcyr-bolditalic.svg#avenirnextcyr-bolditalic') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-bolditalic.svg#avenirnextcyr-bolditalic') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
 	font-family: 'AvenirNextCyr-Demi';
-	src: url('../fonts/avenirnextcyr-demi.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/avenirnextcyr-demi.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/avenirnextcyr-demi.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/avenirnextcyr-demi.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/avenirnextcyr-demi.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/avenirnextcyr-demi.svg#avenirnextcyr-demi') format('svg'); /* Chrome < 4, Legacy iOS */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.eot'); /* IE 9 Compatibility Mode */
+	src: url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.woff2') format('woff2'), /* Super Modern Browsers */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('https://asdlol43.github.io/project_two/fonts/avenirnextcyr-demi.svg#avenirnextcyr-demi') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
